@@ -1,3 +1,4 @@
+using BooksDB_Gabriel_Viinikka.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BooksDB_Gabriel_Viinikka.Controllers

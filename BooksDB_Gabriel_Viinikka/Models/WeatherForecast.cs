@@ -1,4 +1,4 @@
-namespace BooksDB_Gabriel_Viinikka
+namespace BooksDB_Gabriel_Viinikka.Models
 {
     public class WeatherForecast
     {
